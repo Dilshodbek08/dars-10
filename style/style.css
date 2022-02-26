@@ -698,11 +698,24 @@
 }
 
 
+.Home-main-page{
+  text-align: left;
+}
+.items{
+  font-size: 25px;
+  text-decoration: none;
+}
+.qw{
+  list-style-type: none;
 
-
-
-
-
+}
+.qrw{
+  text-decoration: none;
+}
+.qwer{
+  text-align: center;
+  font-size: 30px;
+}
 
 
 
